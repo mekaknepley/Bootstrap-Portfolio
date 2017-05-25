@@ -92,6 +92,10 @@ body {
 	box-sizing: border-box;
 }
 
+.textPadding {
+	height: 20px;
+}
+
 footer {
 	border-top: 5px solid #4aaaa5;
 	background-color: grey;
