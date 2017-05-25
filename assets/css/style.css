@@ -15,9 +15,10 @@ body {
 	height: 80px;
 }
 
- .navbar h1 {
+ .pageTitle {
 	font-size: 30px;
 	text-align: center;
+	padding-top: 18px;
 }
 
 .navbar {
@@ -94,6 +95,7 @@ body {
 footer {
 	border-top: 5px solid #4aaaa5;
 	background-color: grey;
+	color: #b3b9a7;
 }
 
 footer p {
